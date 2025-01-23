@@ -1,0 +1,23 @@
+body {
+    background: #11111d;
+    background: linear-gradient(135deg, #0d212e 25%, #0a1924 75%);
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  ul {
+    padding-left: 1.5rem;
+  }
+  
+  a {
+    color: #ff6f61;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
